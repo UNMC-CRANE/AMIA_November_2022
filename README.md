@@ -10,7 +10,8 @@
 2) Texas A&M University, College Station, TX;
 3) The University of Texas at San Antonio, San Antonio, TX
 
-## Attendee Handout: 
+## Attendee Handout
+Please find the attendee handouts for this session [here](https://github.com/UNMC-CRANE/AMIA_November_2022/tree/main/Handouts). 
 
 ## Introduction
 
@@ -72,4 +73,4 @@ We found that 2022 USCDI published standards were applicable to only a minority 
 12) Regenstrief and SNOMED International joint work agreement. https://loinc.org/collaboration/snomed-international/
 
 
-**For more information, please visit our previous AMIA Workshop from the 2022 AMIA Clinical Informatics Conference here: https://github.com/UNMC-CRANE/AMIA_Workshop_May_2022. This workshop - "Introduction to semantic interoperability; Top-level ontologies for the US domain" - covered terminology management from across the medical spectrum, including SDoH data elements. Specific content relevant to attendees can be found here: https://unmc-crane.github.io/AMIA_Workshop_May_2022/interoperable-use-cases-for-vitals-clinical-assessments-nursing-assessments-and-social-determinants-of-health.html#social-determinants-of-health-sdoh.**
+**For more information, please visit our previous AMIA Workshop from the 2022 AMIA Clinical Informatics Conference [here](https://github.com/UNMC-CRANE/AMIA_Workshop_May_2022). This workshop - "Introduction to semantic interoperability; Top-level ontologies for the US domain" - covered terminology management from across the medical spectrum, including SDoH data elements. Specific content relevant to attendees can be found [here](https://unmc-crane.github.io/AMIA_Workshop_May_2022/interoperable-use-cases-for-vitals-clinical-assessments-nursing-assessments-and-social-determinants-of-health.html#social-determinants-of-health-sdoh).**
